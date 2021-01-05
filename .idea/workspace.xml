@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="81539a85-8d26-4f65-9bb2-2c9329cdf9c6" name="Default Changelist" comment="" />
+    <list default="true" id="81539a85-8d26-4f65-9bb2-2c9329cdf9c6" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculs/counter.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/calculs/counter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculs/euclidean.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/calculs/euclidean.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn/knn.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/knn/knn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slice/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/slice/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortmap/map.go" beforeDir="false" afterPath="$PROJECT_DIR$/knn_algo/sortmap/map.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +32,14 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1mZna2Q94hSv327IkAgJS58R5Hj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,18 +51,20 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/knn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\tp_ic" />
+      <recent name="C:\Users\PC\Desktop\tp_ic\knn_algo" />
+      <recent name="C:\Users\PC\Desktop\tp_ic\data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\Desktop\tp_ic\knn" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\PC\Desktop\tp_ic" />
-      <recent name="C:\Users\PC\Desktop\tp_ic\data" />
-    </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/Kratos40-sba/tp_ic">
+  <component name="RunManager" selected="Go Build.go build github.com/Kratos40-sba/tp_ic/knn_algo">
     <configuration name="go build github.com/Kratos40-sba/tp_ic" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="tp_ic" />
       <working_directory value="$PROJECT_DIR$" />
@@ -60,8 +83,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build github.com/Kratos40-sba/tp_ic/knn_algo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tp_ic" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/knn_algo/main.go" />
+      <package value="github.com/Kratos40-sba/tp_ic/knn_algo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/Kratos40-sba/tp_ic/knn_algo" />
         <item itemvalue="Go Build.go build github.com/Kratos40-sba/tp_ic" />
         <item itemvalue="Go Build.go build github.com/Kratos40-sba/tp_ic/knn" />
       </list>
@@ -71,6 +104,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -79,22 +127,34 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="444" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1609710835347" />
-    <state width="1317" height="163" key="GridCell.Tab.0.bottom" timestamp="1609778810285">
+    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1609861747455">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="163" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
-    <state width="1317" height="163" key="GridCell.Tab.0.center" timestamp="1609778810285">
+    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1609861747455" />
+    <state x="556" y="266" key="Github.ShareDialog" timestamp="1609862018137">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="163" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
-    <state width="1317" height="163" key="GridCell.Tab.0.left" timestamp="1609778810285">
+    <state x="556" y="266" key="Github.ShareDialog/0.0.1360.728@0.0.1360.728" timestamp="1609862018137" />
+    <state width="658" height="195" key="GridCell.Tab.0.bottom" timestamp="1609861703708">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="163" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
-    <state width="1317" height="163" key="GridCell.Tab.0.right" timestamp="1609778810285">
+    <state width="658" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1609861703708" />
+    <state width="658" height="195" key="GridCell.Tab.0.center" timestamp="1609861703708">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="163" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
+    <state width="658" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1609861703708" />
+    <state width="658" height="195" key="GridCell.Tab.0.left" timestamp="1609861703708">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="658" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1609861703708" />
+    <state width="658" height="195" key="GridCell.Tab.0.right" timestamp="1609861703708">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="658" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1609861703708" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1609861781025">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1609861781025" />
     <state x="388" y="81" width="583" height="566" key="find.popup" timestamp="1609769895257">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

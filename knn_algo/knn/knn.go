@@ -1,9 +1,9 @@
 package knn
 
 import (
-	"github.com/Kratos40-sba/tp_ic/calculs"
-	"github.com/Kratos40-sba/tp_ic/slice"
-	"github.com/Kratos40-sba/tp_ic/sortmap"
+	"github.com/Kratos40-sba/tp_ic/knn_algo/calculs"
+	"github.com/Kratos40-sba/tp_ic/knn_algo/slice"
+	"github.com/Kratos40-sba/tp_ic/knn_algo/sortmap"
 	"sort"
 )
 

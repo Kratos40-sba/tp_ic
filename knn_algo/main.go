@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/csv"
 	"fmt"
-	knn2 "github.com/Kratos40-sba/tp_ic/knn"
+	knn2 "github.com/Kratos40-sba/tp_ic/knn_algo/knn"
 	"io"
 	"os"
 	"strconv"
@@ -67,13 +67,13 @@ func main() {
 	prediction := knn.Predict(testX)
 
 	correct := 0
-	for i, _ := range prediction {
+	for i := range prediction {
 		if prediction[i] == testY[i] {
 			correct += 1
 		}
 	}
 	fmt.Println(correct)
 	fmt.Println(len(prediction))
-	fmt.Println("Accuracy", float64(correct)/float64(len(prediction)))
+	fmt.Println("Accuracy : ", float64(correct)/float64(len(prediction)))
 
 }
