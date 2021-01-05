@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81539a85-8d26-4f65-9bb2-2c9329cdf9c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mZna2Q94hSv327IkAgJS58R5Hj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/knn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\tp_ic\knn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\tp_ic" />
+      <recent name="C:\Users\PC\Desktop\tp_ic\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/Kratos40-sba/tp_ic">
+    <configuration name="go build github.com/Kratos40-sba/tp_ic" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tp_ic" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/Kratos40-sba/tp_ic" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Kratos40-sba/tp_ic/knn" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tp_ic" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/knn/main.go" />
+      <package value="github.com/Kratos40-sba/tp_ic/knn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/Kratos40-sba/tp_ic" />
+        <item itemvalue="Go Build.go build github.com/Kratos40-sba/tp_ic/knn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609710835347">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="444" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1609710835347" />
+    <state width="1317" height="163" key="GridCell.Tab.0.bottom" timestamp="1609778810285">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="163" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
+    <state width="1317" height="163" key="GridCell.Tab.0.center" timestamp="1609778810285">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="163" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
+    <state width="1317" height="163" key="GridCell.Tab.0.left" timestamp="1609778810285">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="163" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
+    <state width="1317" height="163" key="GridCell.Tab.0.right" timestamp="1609778810285">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="163" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1609778810285" />
+    <state x="388" y="81" width="583" height="566" key="find.popup" timestamp="1609769895257">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="388" y="81" width="583" height="566" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1609769895257" />
+  </component>
+</project>
